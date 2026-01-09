@@ -36,7 +36,16 @@
 
 ## 🧠 About Me
 
-I am a results-driven engineering student with a strong focus on building real-world, industry-grade systems. I have hands-on experience in full-stack development, machine learning, and data-driven applications, with an emphasis on clean architecture, scalability, and performance. I enjoy working on practical problems that require thoughtful system design and efficient implementation. Continuously learning and experimenting with new technologies, I aim to develop solutions that are reliable, impactful, and aligned with real industry needs. 
+## 🧠 About Me
+
+I’m **Adwaiy Pillai**, a **B.Tech Artificial Intelligence & Data Science** engineering student based in **Pune, India**, passionate about building intelligent systems that solve real-world problems.
+
+I have hands-on experience in **machine learning, deep learning, and computer vision**, with a strong focus on **Python**, **PyTorch**, **TensorFlow**, and **YOLO**. I enjoy working on projects end-to-end — from data preprocessing and model training to evaluation and deployment.
+
+I previously interned at **MagnaKraft Automation Systems**, where I worked on **object detection using YOLO** and gained exposure to **GPU-accelerated workflows with NVIDIA hardware**. I also served as the **Head of Artificial Intelligence at CodersClub**, mentoring juniors and leading student-driven AI projects.
+
+My interests include **reinforcement learning, large language models, and applied AI**, and I actively build projects such as AI agents, chatbots, and full-stack applications to sharpen my skills. I’m always eager to learn, experiment, and contribute to impactful AI solutions.
+ 
 
 ---
 
