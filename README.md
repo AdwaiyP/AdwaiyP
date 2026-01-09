@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/adwaiypillai">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ff8c00" />
   </a>
-  <a href="https://github.com/jacksparrow-12">
+  <a href="https://github.com/AdwaiyP">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ff8c00" />
   </a>
 </p>
