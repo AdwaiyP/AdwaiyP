@@ -97,15 +97,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jacksparrow-12&show_icons=true&theme=dark&icon_color=ff8c00&title_color=ff8c00&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksparrow-12&layout=compact&theme=dark&title_color=ff8c00&text_color=ffffff" />
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 Email: **adwaiy23@gmail.com**  
@@ -118,6 +109,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:000000&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <b style="color:#ff8c00;">🖤 Built in Dark Mode • Powered by AI • Black × Orange 🟧</b>
-</p>
