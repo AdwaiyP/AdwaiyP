@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- Typing animation (Orange text) -->
-  <a href="https://github.com/jacksparrow-12">
+  <a href="https://github.com/AdwaiyP">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&color=FF8C00&lines=AI+%26+Data+Science+Engineering+Student;Python+%7C+PyTorch+%7C+TensorFlow+%7C+NLP;Building+ML+projects+end-to-end;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
